@@ -9,6 +9,7 @@ public class MONEDA1 {
 
         System.out.println("Bienvenido al sistema de cambios en eurOS, introduce una cantidad de dinero y el programa te dara el cambio que deberas dar.");
         System.out.print("CANTIDAD: ");
+        System.out.print("Prueba de conexion con Github");
 
         while (true) {
             int cantidad = sc.nextInt();
